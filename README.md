@@ -29,5 +29,5 @@ The result is not really applealing, sicne from the time series, the order deman
 │     └── World_Wide_Products_Inc.ipynb
 ├── README.md
 └── data
-      └── Historical Product Demand.csv
+      └── Historical Product Demand.csv.zip
 ```
